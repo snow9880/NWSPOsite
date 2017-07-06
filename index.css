@@ -1,0 +1,23 @@
+.logo{
+  text-align: center;
+}
+h1{
+  text-align: center;
+
+}
+.notification{
+  background-color: red;
+  color:white;
+}
+
+button{
+  width:300px;
+  height:500px;
+  background-color:navy;
+  color:white;
+  font-size:5em;
+}
+
+form{
+  display:block;
+}
